@@ -4,7 +4,7 @@
 # redis & pool (引入fastjee-nosql-redis模块后生效)
 spring:
   redis:
-    host: localhost
+    host: 10.254.130.22
     port: 6379
     password:
     database: 11
